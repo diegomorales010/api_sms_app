@@ -1,0 +1,40 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Android Assets Packaging Tool (AAPT)
+# The following extensions are used by the AAPT:
+.zip, .jar, .gz, .img, .so, .proto, .xml, .png
+# The following extensions are used by the Android NDK:
+.txt, .png, .bin
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+generated/
+build/
+local.properties
+captures/
+.externalNativeBuild
+.cxx
+.DS_Store
+.gradle/
+# Ignore gitignore files with local changes
+!.gitignore
+# Ignore all .iml files:
+*.iml
+# Ignore all .idea folders:
+/.idea/
+# Ignore all .gradle folders:
+/.gradle/
+# Ignore all local script files:
+*.sh
+*.command
+# Ignore all User settings:
+*.suo
+*.sublime-workspace
+
