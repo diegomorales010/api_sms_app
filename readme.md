@@ -13,9 +13,9 @@ SmsApiNano es una aplicación para Android que te permite enviar SMS programáti
 
 ## Capturas de pantalla
 
-![Screenshot 1](screenshot1.jpg)
+<img src="screenshot1.jpg" width="200"/>
 
-![Screenshot 2](screenshot2.jpg)
+<img src="screenshot2.jpg" width="200"/>
 
 ## Instalación
 
